@@ -37,8 +37,8 @@ social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 - {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/chris-wang-56a9b0240"}
+- {icon: "ion-logo-github", link: "https://github.com/babyhedgehog"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -73,23 +73,23 @@ testimonial__title: What clients say
 testimonial__description:
 
 testimonial__items:
-  - name: "Aspen Carder"
+  - name: "Chris Flynn"
     image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
+    designation: "Chief Technology Officer, VOW"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Awesome guy, very knowledgeable. Fun to collaborate with in the work environment. Had a lot of great concepts and practices to bring to the table in the company."
 
-  - name: "Lydia Siphron"
+  - name: "Thad Duval"
     image: "/images/client-2.jpg"
-    designation: "Designer"
+    designation: "Software Engineer, Command Labs"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Chris is one of the most dependable and hard-working developers that I've had the pleasure of working with. Chris is a great resource for any development project."
 
-  - name: "Craig Vaccaro"
+  - name: "Riley Krull"
     image: "/images/client-3.jpg"
-    designation: "Web developer"
+    designation: "Marketing Coordinator"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "It was a pleasure working with Chris this summer. Not to mention his expertise in front-end skills, Chris also demonstrated his exceptional communication skills."
 
   - name: "Anika Calzoni"
     image: "/images/client-4.jpg"
