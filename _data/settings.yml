@@ -47,7 +47,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Chris Wang. I build things for web and mobile
+  hero__title: Chris Wang.<br> I build things for web and mobile
   hero__description: I’m a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I’m focused on building accessible, human-centered products at Geepm.
   hero__image: '/images/01.jpg'
 
@@ -91,17 +91,17 @@ testimonial__items:
     link: "https://twitter.com/"
     content : "It was a pleasure working with Chris this summer. Not to mention his expertise in front-end skills, Chris also demonstrated his exceptional communication skills."
 
-  - name: "Anika Calzoni"
+  - name: "Brittany Chiang"
     image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
+    designation: "Lead Engineer, Upstatement"
     link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "Chris was truly a diamond in the rough. If you haven't reached out to him already, don't hesitate to reach out! Chris is the cream of the crop and a huge team player."
 
-  - name: "Marcus Botosh"
+  - name: "Sung M. Cho"
     image: "/images/client-5.jpg"
-    designation: "Full Stack Designer"
+    designation: "Founder & CEO, Chartmetric"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    content : "I really enjoyed working with Chris. He is exceptional smart, analytic, and detail-oriented. Chris is really a cool guy, having warm heart and cool brain. He never loses peacefulness."
 
 
 #-------------------------------
