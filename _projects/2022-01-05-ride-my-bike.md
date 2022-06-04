@@ -1,11 +1,11 @@
 ---
-title: Ride My Bike
+title: Sodexo
 date: 2022-01-05 08:01:35 +0300
-subtitle: Procreate
+subtitle: Mobile Fleet & Fuel Services App
 image: '/images/project-6.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Sodexo is a global food services and facilities management company with over 428,237 employees working across 80 different countries. Fleet and fuen management is a key part of Sodexo's service, delivered to market via Wizeo: Sodexo's platform for effective, real-time management of fleets and fuel.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+Sodexo wanted to create a new mobile experience for the Wizeo app using React Native. I've participated in this project as a React Native developer.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +25,4 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+A new design had been created to transform the user experience and the business was counting on a software development partner to deliver on the vision. If they could get the Wizeo app right, it had the potential to be rolled out to several other regions across the world to offer effective fleet and fuel management throughout Sodexo's network.

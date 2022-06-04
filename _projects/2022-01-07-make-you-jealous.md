@@ -1,11 +1,11 @@
 ---
-title: Make You Jealous
+title: Tapcart
 date: 2022-01-07 08:01:35 +0300
-subtitle: Letterign
+subtitle: Mobile eCommerce app development
 image: '/images/project-4.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Tapcart is a game-changing SaaS platform that allows Shopify merchants to create launch, and manage mobile shopping apps with no coding required.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,9 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+After launching more than 300 iOS apps in less than one year, Tapcart entered into a high-growth mode and was ready to expand on to Android. The Android version needed to fulfill the high expectations set by the iOS version with immediate usage for its customers.
+
+I've participated in this project as an Android developer. Tapcart already had a strong in-house iOS development team located in Santa Monica, California. Our team agreed on the best workflow to ensure both teams would work together effectively, and we continually reviewed their technical documentation and iOS Codebase.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +27,6 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+To build a native Android app with a delightful look and feel, I adapted core elements of the app to adhere to Android design principles and best practices. I defined a modular Android app architecture, following the most recent Google guidelines, to ensure the app would scale along the journey to pair the successful iOS app.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+The app architecture also foresaw a white-label structure to launch custom native apps for different brands from the same codebase.

@@ -1,11 +1,11 @@
 ---
-title: The Best Sentence
+title: Singularity University
 date: 2022-01-06 08:01:35 +0300
-subtitle: Lettering
+subtitle: Global community app
 image: '/images/project-5.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Singularity University offers executive educational programs, a business incubator, and innovation consultancy services. It was founded in 2008 by Peter Diamandis and Ray Kurzweil at the NASA Research Park in California.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+They wanted to create the backend and frontend of a global community to connect experts and entrepreneurs with a passion for solving humanity's grand challenges. I've participated in this project as a React Native developer.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +25,11 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+- Single Sign-On
+I've integrated the authentication with **AuthO** to provide a seamless experience to users through multiple apps with just one set of credentials.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+- In-app chat
+To connect users within the global community, I integrated with **Sendbird** to offer a full-featured modern messenger built in the apps, providing both 1on1 and group chat.
+
+- Scalable search
+Once the number of users increased, we scaled the search feature using **Elasticsearch**, allowing users to quickly find relevant data in the community such as news, people, and events nearby.

@@ -1,22 +1,22 @@
 ---
-title: How We Live
+title: WT Wine
 date: 2022-01-09 08:01:35 +0300
-subtitle: Letterign
+subtitle: Web Application Development
 image: '/images/project-2.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+As a member of the Royal Association of Dutch Wine Traders, focused on a full eco-friendly approach and logistical excellence WijnTransport is a thriving business with a B2B focus and a top of the line fruit wine selection.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
+    <img src="/images/project-example-6.jpg" loading="lazy" alt="Project">
+    <img src="/images/project-example-7.jpg" loading="lazy" alt="Project">
+    <img src="/images/project-example-8.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+The objectives were to redesign the existing website and make the customer experience one to remember, improve the UI, and add features that enhance accessibility. I've participated in this project as a JavaScript developer.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +25,4 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+Using the versatility of Apollo, GraphQL and React, with the power of Microsoft's TypeScript, we gave the business a modern spin focusing primarily on client experience. In this regard we added several new features such as an Integrated Search with Algolia, a Shop Experience with React and several WordPress plugins for the customer pages. When it comes to aesthetics we chose to focus on a premium look with a clean UI, focusing primarily on customer experience, partnerships and news about the business. On the products page we implemented an intuitive side menu with category selection.

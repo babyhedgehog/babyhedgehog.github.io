@@ -1,11 +1,11 @@
 ---
-title: Script Using Pencil
+title: Collecteurs
 date: 2022-01-10 08:01:35 +0300
-subtitle: Calligraphy
+subtitle: Front End Development
 image: '/images/project-1.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Collecteurs is the world's first digital museum of private collections: The Collective Museum of Private Collections. Collecteurs harnesses the power of technology to empower art collectors from across the globe.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +16,7 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+As an experienced React developer, I've participated in Collecteurs project. I've worked on transitioning the website to React giving it a nice and snappy feel, substantially increasing site speed and we've implemented a top of the line user interface. As for the design, we gave it a more unusual monochromatic aesthetic with a half fixed, half scrollable layout, a generous featured article area and a lot of visible metrics, with heavy social media interaction. Being a crowdfunded project, Collecteurs has seen a large amount of media coverage, from The New York Times to more niche publications like Artuner.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +25,4 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
-
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+The web application that is going to change the way we see art!
